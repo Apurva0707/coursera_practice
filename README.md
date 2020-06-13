@@ -1,2 +1,3 @@
 # coursera_practice
 it is just for the learning purpose for coursera
+I'm editing the README file . here I add some more details about the project .....
